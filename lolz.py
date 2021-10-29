@@ -17,7 +17,7 @@ if 3 > 1:
 def myFunc():
   print("I am LolzTheSpooky :)")
   
-intro = "yes"
+I = "yes"
 
-if (intro) = "yes"
+if (I) = "yes"
   myFunc()
