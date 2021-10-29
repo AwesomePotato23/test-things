@@ -19,5 +19,5 @@ def myFunc():
   
 I = "yes"
 
-if (I) = "yes"
+if (I) = "yes":
   myFunc()
