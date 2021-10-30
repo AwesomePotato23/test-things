@@ -5,6 +5,11 @@ alert("Hello");
 alert("This is a JS file.");
 alert("So you can leave.");
 
-action = "please leave now."
+action = "leave"
 
 alert("So can you " + action);
+alert("Why aren't you leaving!?!");
+alert("LEAVE PLEASEEEE");
+
+var2 = "ok bye"
+alert(var2);
